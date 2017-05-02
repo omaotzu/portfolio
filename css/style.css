@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+  color: #E98A15;
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+}
+.maintenance{
+  width: 500px;
+  height: 500px;
+}
+
+h1{
+  font-family: 'Anton', sans-serif;
+  color: #511730;
+}
+
+span{
+  font-family: 'Anton', sans-serif;
+  color: #511730;
+}
+
+
+h3{
+
+}
